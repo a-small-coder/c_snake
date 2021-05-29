@@ -1,0 +1,6 @@
+.vs
+*.sln
+Debug
+GameSnake2/Debug
+*.resx
+*.vc*
